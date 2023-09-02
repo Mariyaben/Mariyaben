@@ -1,4 +1,4 @@
-# Hello, I'm Mariya 👋
+# Hello, I'm Mariya ;)
 
 I'm an enthusiastic and passionate AI & DS student, always eager to learn and apply my knowledge in exciting projects. Welcome to my GitHub profile! Here's a bit about me:
 
