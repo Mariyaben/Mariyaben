@@ -20,6 +20,9 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&langs_count=12)](https://github.com/Mariyaben)
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mariyaben)
+
 ## 🌱 Projects
 
 Here are some of the projects I've worked on:
