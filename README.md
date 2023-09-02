@@ -61,14 +61,14 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/mariya-benny-7834511a2-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariya-benny-7834511a2)
-[![Email](https://img.shields.io/badge/Email-mariyaben02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)]
+
+[![Email](https://img.shields.io/badge/Email-mariyaben02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariyaben02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mariya-benny-7834511a2)
 
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
 
 Happy coding! 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/Mariyaben?style=social)   ![GitHub milestones](https://img.shields.io/github/milestones/open/Mariyaben/dashboard) ![GitHub User's stars](https://img.shields.io/github/stars/Mariyaben)
+
 
 
