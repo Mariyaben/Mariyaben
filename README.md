@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Mariya Benny](in/mariya-benny-7834511a2)
+- LinkedIn: [Mariya Benny](www.linkedin.com/in/mariya-benny-7834511a2)
 - Email: mariyaben02@gmail.com
 
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
