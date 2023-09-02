@@ -62,8 +62,7 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect
 
 - LinkedIn: [Mariya Benny](www.linkedin.com/in/mariya-benny-7834511a2)
-- Email: mariyaben02@gmail.com
-[![Email](https://img.shields.io/badge/Email-mariyaben02@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YourEmail@example.com)
+[![Email](https://img.shields.io/badge/Email-mariyaben02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)]
  | [LinkedIn](www.linkedin.com/in/mariya-benny-7834511a2)
 
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
