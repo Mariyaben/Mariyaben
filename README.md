@@ -9,10 +9,11 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 
 ## 🚀 Skills
 
-- Programming Languages: Python, C++, Java, R
-- Machine Learning: TensorFlow, PyTorch, PaspberryPi
-- Databases: SQL, MongoDB
-- Tools: Jupyter Notebook, Git
+- **Programming Languages:** Python, C++, Java, R
+- **Machine Learning:** TensorFlow, PyTorch, Raspberry Pi
+- **Databases:** SQL, MongoDB
+- **Tools:** Jupyter Notebook, Git
+
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben)
@@ -21,7 +22,6 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&langs_count=12)](https://github.com/Mariyaben)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mariyaben)
 
 ## 🌱 Projects
 
