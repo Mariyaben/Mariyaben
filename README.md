@@ -32,5 +32,5 @@ Happy coding! 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/Mariyaben?style=social)
 
-![GitHub milestones](https://img.shields.io/github/milestones/:variant/:Mariyaben/:CommuSpace)
+![GitHub milestones](https://img.shields.io/github/milestones/:variant/:Mariyaben/:dashboard)
 
