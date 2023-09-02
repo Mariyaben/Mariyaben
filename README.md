@@ -30,5 +30,5 @@ Feel free to reach out for collaboration or if you have any questions. Looking f
 
 Happy coding! 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/:user)
+![GitHub followers](https://img.shields.io/github/followers/:Mariyaben)
 
