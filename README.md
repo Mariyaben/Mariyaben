@@ -32,4 +32,5 @@ Happy coding! 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/Mariyaben?style=social)   ![GitHub milestones](https://img.shields.io/github/milestones/open/Mariyaben/dashboard) ![GitHub User's stars](https://img.shields.io/github/stars/Mariyaben)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben)
 
