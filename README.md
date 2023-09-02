@@ -18,7 +18,7 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 
 Here are some of the projects I've worked on:
 
-- [Project 1]((https://github.com/Mariyaben/CommuSpace_web_app)): Community-building web application which facilites eal time chatting.
+- [Project 1]((https://github.com/Mariyaben/CommuSpace_web_app): Community-building web application which facilites real time chatting.
 - [Project 2](https://github.com/Mariyaben/SpotSafe_Women_Safety_App): Women's Travel Safety app
 
 ## 📫 Let's Connect
