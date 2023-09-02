@@ -30,9 +30,7 @@ Feel free to reach out for collaboration or if you have any questions. Looking f
 
 Happy coding! 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/Mariyaben?style=social)
-
-![GitHub milestones](https://img.shields.io/github/milestones/open/Mariyaben/dashboard)
+![GitHub followers](https://img.shields.io/github/followers/Mariyaben?style=social)   ![GitHub milestones](https://img.shields.io/github/milestones/open/Mariyaben/dashboard)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Mariyaben)
 
