@@ -29,3 +29,7 @@ Here are some of the projects I've worked on:
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
 
 Happy coding! 🚀
+
+
+[![Build Status](https://travis-ci.com/YourUsername/YourRepository.svg?branch=main)]([https://travis-ci.com/YourUsername/YourRepository](https://img.shields.io/github/followers/:user)https://img.shields.io/github/followers/:user)
+
