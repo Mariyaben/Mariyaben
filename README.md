@@ -70,6 +70,7 @@ Here are some of the projects I've worked on:
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
 ![GitHub Profile Views](https://img.shields.io/github/profile-views/Mariyaben/Mariyaben?style=flat-square)
 ![GitHub watchers](https://img.shields.io/github/watchers/Mariyaben/Mariyaben)
+![Profile Views](https://komarev.com/ghpvc/?username=Mariyaben&color=blueviolet)
 
 Happy coding! 🚀
 
