@@ -18,12 +18,12 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 
 Here are some of the projects I've worked on:
 
-- [Project 1]((https://github.com/Mariyaben/CommuSpace_web_app): Community-building web application which facilites real time chatting.
-- [Project 2](https://github.com/Mariyaben/SpotSafe_Women_Safety_App): Women's Travel Safety app
+- [CommuSpace](https://github.com/Mariyaben/CommuSpace_web_app): Community-building web application which facilites real time chatting.
+- [SptSafe](https://github.com/Mariyaben/SpotSafe_Women_Safety_App): Women's Travel Safety app
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- LinkedIn: [Mariya Benny](in/mariya-benny-7834511a2)
 - Email: mariyaben02@gmail.com
 
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
