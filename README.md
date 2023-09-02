@@ -17,6 +17,9 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben)
 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8)](https://github.com/Mariyaben)
+
 ## 🌱 Projects
 
 Here are some of the projects I've worked on:
