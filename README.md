@@ -9,10 +9,11 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 
 ## 🚀 Skills
 
-- **Programming Languages:** Python, C++, Java, R
-- **Machine Learning:** TensorFlow, PyTorch, Raspberry Pi
-- **Databases:** SQL, MongoDB
-- **Tools:** Jupyter Notebook, Git
+- 💻 Programming Languages: Python, C++, Java, R
+- 🤖 Machine Learning: TensorFlow, PyTorch, Raspberry Pi
+- 📊 Databases: SQL, MongoDB
+- 🛠️ Tools: Jupyter Notebook, Git
+
 
 
 
