@@ -48,7 +48,7 @@ I'm an enthusiastic and passionate AI & DS student, always eager to learn and ap
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&langs_count=12)](https://github.com/Mariyaben)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben)                          [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&langs_count=12)](https://github.com/Mariyaben)
 
 
 
