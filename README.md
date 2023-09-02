@@ -32,7 +32,7 @@ Happy coding! 🚀
 
 ![GitHub followers](https://img.shields.io/github/followers/Mariyaben?style=social)
 
-![GitHub milestones](https://img.shields.io/github/milestones/:variant/:Mariyaben/:dashboard)
+![GitHub milestones](https://img.shields.io/github/milestones/open/Mariyaben/dashboard)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Mariyaben)
 
