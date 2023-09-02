@@ -34,6 +34,6 @@ Happy coding! 🚀
 
 ![GitHub milestones](https://img.shields.io/github/milestones/:variant/:Mariyaben/:dashboard)
 
-![GitHub User's stars](https://img.shields.io/github/stars/:Mariyaben)
+![GitHub User's stars](https://img.shields.io/github/stars/Mariyaben)
 
 
