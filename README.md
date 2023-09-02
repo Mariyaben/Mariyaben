@@ -3,10 +3,7 @@
 I'm an enthusiastic and passionate AI & DS student, always eager to learn and apply my knowledge in exciting projects. Welcome to my GitHub profile! Here's a bit about me:
 
 - 🎓 Currently pursuing a degree in AI & Data Science.
-- 💼 Actively seeking opportunities and internships in the field.
-- 🔬 Keen interest in machine learning, data analysis, and artificial intelligence.
-- 🌐 Open to collaboration on projects related to data science and AI.
-
+- 🔬 Keen interest in machine learning, data analysis, and artificial intelligence
 
 
 ## 🚀 Skills
