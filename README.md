@@ -1,7 +1,3 @@
-Sure, let's make it more creative and add some additional fields to showcase your skills and interests. Here's an updated version:
-
----
-
 # Hello, I'm Mariya 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student, always eager to learn and apply my knowledge in exciting projects. Here's a bit about me:
@@ -26,13 +22,11 @@ Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-00599C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ### Deep Learning & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-00FFFF?style=for-the-badge&logo=cnn&logoColor=black)
 ![RNN](https://img.shields.io/badge/RNN-FF4500?style=for-the-badge&logo=rnn&logoColor=white)
-![GANs](https://img.shields.io/badge/GANs-9400D3?style=for-the-badge&logo=gans&logoColor=white)
 
 ### Embedded Systems
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -55,13 +49,11 @@ Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### User Experience (UX) and Design
 ![Figma](https://img.shields.io/badge/Figma-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-2E2E2E?style=for-the-badge&logo=sketch&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-4A90E2?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ### Operating Systems and Methodologies
@@ -84,24 +76,15 @@ Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student
 
 Here are some of the projects I've worked on:
 
-- [CommuSpace](https://github.com/Mariyaben/CommuSpace_web_app): A community-building web application that facilitates real-time chatting.
-- [SpotSafe](https://github.com/Mariyaben/SpotSafe_Women_Safety_App): A women's travel safety app.
-- [SmartHome](https://github.com/Mariyaben/SmartHome): An intelligent home automation system.
-- [VisionAI](https://github.com/Mariyaben/VisionAI): A computer vision project for object detection and recognition.
-
-## 🌟 Achievements
-
-- 🥇 Winner of the AI Innovation Challenge 2023
-- 📜 Published a research paper on Deep Learning in Healthcare
-- 🎤 Speaker at the International Data Science Conference 2023
-
+- [Vitae]([https://github.com/Mariyaben/SmartHome](https://github.com/Mariyaben/Hackify)): A comprehensive healthcare platform for personalized diagnosis, medication guidance, and dietary recommendations using patient data.
+- [DriveSense.AI]([https://github.com/Mariyaben/VisionAI](https://github.com/Mariyaben/Hackathena_2024-LearnDrive.AI-)): An automated Driving Learners assistance system implemented using the YOLO models and gtts.
+- [OfficeFlow](https://github.com/Mariyaben/OfficeFlow): An automated office management web/mobile application with the following modules, Resume Screening, HR-GPT, Automated Project Allocation, Automated Interview Bot.
+- [AI_Banking_Assistant](https://github.com/Mariyaben/HPAI_Banking_Assist): A ML model for a recommendation system for a banking app to direct users to features based on their past clicks and interactions with the app.
 ## 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-mariyaben02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariyaben02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariya-benny-7834511a2)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge
 
-&logo=twitter&logoColor=white)](https://twitter.com/MariyaBen)
 
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
 
