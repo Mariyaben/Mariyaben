@@ -76,8 +76,8 @@ Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student
 
 Here are some of the projects I've worked on:
 
-- [Vitae](https://github.com/Mariyaben/SmartHome](https://github.com/Mariyaben/Hackify)): A comprehensive healthcare platform for personalized diagnosis, medication guidance, and dietary recommendations using patient data.
-- [DriveSense.AI](https://github.com/Mariyaben/VisionAI](https://github.com/Mariyaben/Hackathena_2024-LearnDrive.AI-)): An automated Driving Learners assistance system implemented using the YOLO models and gtts.
+- [Vitae](https://github.com/Mariyaben/Hackify): A comprehensive healthcare platform for personalized diagnosis, medication guidance, and dietary recommendations using patient data.
+- [DriveSense.AI](https://github.com/Mariyaben/Hackathena_2024-LearnDrive.AI-): An automated Driving Learners assistance system implemented using the YOLO models and gtts.
 - [OfficeFlow](https://github.com/Mariyaben/OfficeFlow): An automated office management web/mobile application with the following modules, Resume Screening, HR-GPT, Automated Project Allocation, Automated Interview Bot.
 - [AI_Banking_Assistant](https://github.com/Mariyaben/HPAI_Banking_Assist): A ML model for a recommendation system for a banking app to direct users to features based on their past clicks and interactions with the app.
 ## 📫 Let's Connect
