@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Mariyaben/Mariyaben/assets/98140958/48fa3084-c254-4c53-8cf1-5973c10b8bfe)
 
-# Hello, I'm Mariya 👋
+# Hi, it's Mariya! 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student, always eager to learn and apply my knowledge in exciting projects. Here's a bit about me:
 
