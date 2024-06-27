@@ -70,6 +70,8 @@ Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben&theme=highcontrast&fire=DD2727&ring=DD2727&border=DD2727)
 
+![GitHub Contributions](https://img.shields.io/github/contributions/Mariyaben?count_private=true&style=for-the-badge)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&langs_count=12&theme=radical)](https://github.com/Mariyaben)
 
 ## 🌱 Projects
@@ -92,7 +94,6 @@ Feel free to reach out for collaboration or if you have any questions. Looking f
 
 Happy coding! 🚀
 
-[![Mariya Benny's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mariyaben&theme=react-dark)](https://github.com/Mariyaben)
 
 
 
