@@ -87,6 +87,7 @@ Here are some of the projects I've worked on:
 
 [![Email](https://img.shields.io/badge/Email-mariyaben02@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariyaben02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariya-benny-7834511a2)
+![Profile Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhellogiggles.com%2Fbest-lines-legally-blonde%2F&psig=AOvVaw0zy79NslE2EvEv-3nsl_de&ust=1719565580047000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCxxY-3-4YDFQAAAAAdAAAAABAE)
 
 
 Feel free to reach out for collaboration or if you have any questions. Looking forward to connecting with you!
