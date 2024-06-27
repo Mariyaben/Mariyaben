@@ -92,6 +92,7 @@ Feel free to reach out for collaboration or if you have any questions. Looking f
 
 Happy coding! 🚀
 
-[![Mariya Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyaben&show_icons=true&cache_seconds=1800&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mariya Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyaben&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
