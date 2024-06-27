@@ -92,6 +92,16 @@ Feel free to reach out for collaboration or if you have any questions. Looking f
 
 Happy coding! 🚀
 
+### Contribution Stats
+[![Mariya Benny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariyaben&count_private=true&include_all_commits=true&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contribution Graph
+[![Mariya Benny's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mariyaben&theme=react-dark)](https://github.com/Mariyaben)
+
+### Total Contributions
 ![GitHub Contributions](https://img.shields.io/github/contributions/Mariyaben?style=for-the-badge)
 
 
