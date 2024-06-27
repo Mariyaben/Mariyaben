@@ -68,12 +68,10 @@ Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student
 - 🤝 Team Collaboration
 - ⏳ Time Management
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben&theme=highcontrast&fire=DD2727&ring=DD2727&border=DD2727)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mariyaben&theme=highcontrast&fire=DD2727&ring=DD2727&border=DD2727&count_private=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![GitHub Contributions](https://img.shields.io/github/contributions/Mariyaben?count_private=true&style=for-the-badge)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&langs_count=12&theme=radical)](https://github.com/Mariyaben)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyaben&layout=compact&langs_count=12&theme=radical&count_private=true)](https://github.com/Mariyaben)
 
 ## 🌱 Projects
 
