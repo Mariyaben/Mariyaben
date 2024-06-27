@@ -1,3 +1,5 @@
+<div style="background-color: #FFC0CB; padding: 20px; border-radius: 10px;">
+
 # Hello, I'm Mariya 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student, always eager to learn and apply my knowledge in exciting projects. Here's a bit about me:
@@ -93,7 +95,4 @@ Feel free to reach out for collaboration or if you have any questions. Looking f
 
 Happy coding! 🚀
 
-
-
-
----
+</div>
