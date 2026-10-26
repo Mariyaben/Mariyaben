@@ -1,6 +1,5 @@
 <div style="background-color: #FFC0CB; padding: 20px; border-radius: 10px;">
 
-![image](https://github.com/Mariyaben/Mariyaben/assets/98140958/48fa3084-c254-4c53-8cf1-5973c10b8bfe)
 
 # Hi, it's Mariya! 👋
 
