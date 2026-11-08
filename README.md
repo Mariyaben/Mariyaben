@@ -3,11 +3,7 @@
 
 # Hi, it's Mariya! 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic and passionate AI & DS student, always eager to learn and apply my knowledge in exciting projects. Here's a bit about me:
-
-- 🎓 Currently pursuing a degree in AI & Data Science.
-- 🔬 Keen interest in machine learning, data analysis, and innovative AI applications.
-- 🚀 Driven by curiosity and a love for turning complex data into impactful insights.
+Welcome to my GitHub profile!
 
 ## 🚀 Skills & Expertise
 
